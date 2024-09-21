@@ -1,4 +1,4 @@
-import AppName from "./components/AppName";
+import AppName from './components/AppName.jsx';
 import AddTodo from "./components/AddTodo";
 import TodoItems from "./components/TodoItems";
 import "./App.css";
